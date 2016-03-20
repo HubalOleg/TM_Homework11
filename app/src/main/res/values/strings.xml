@@ -4,4 +4,6 @@
     <string name="btn_text_text">Text</string>
     <string name="btn_image_text">Image</string>
     <string name="change_frgm">Open other window</string>
+    <string name="drag_btn_text">DragMe</string>
+    <string name="drag_text_view">Drag this text</string>
 </resources>
